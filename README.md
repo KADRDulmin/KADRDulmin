@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadrdulmin&label=Profile%20views&color=0e75b6&style=flat" alt="kadrdulmin" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **ANGULAR**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KADRDulmin?tab=repositories](https://github.com/KADRDulmin?tab=repositories)
 
