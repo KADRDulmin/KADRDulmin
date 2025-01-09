@@ -10,15 +10,50 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
-</div>
+  
+  <!-- Animated Developer Graphic -->
+  <div>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" align="left"/>
+    <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="350" align="right"/>
+  </div>
+  
+  <br><br><br>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25">
-  Software Engineering Student @ University of Plymouth | Class of 2025 
-  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25">
-</h3>
+  <!-- Animated Title -->
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=635&lines=Full-Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%F0%9F%92%AB" alt="Typing SVG" />
+  </div>
+
+  <br>
+
+  <!-- Animated Education Banner -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/University-of_Plymouth-6C63FF?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
+    <img src="https://img.shields.io/badge/Class_of-2025-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Class"/>
+    <img src="https://img.shields.io/badge/Status-Learning_⚡-6C63FF?style=for-the-badge&logo=power&logoColor=white" alt="Status"/>
+  </div>
+
+  <br>
+
+  <!-- Animated Stats Cards -->
+  <div align="center">
+    <img src="https://github-stats-alpha.vercel.app/api?username=kadrdulmin&cc=0d1117&tc=6C63FF&ic=fff&bc=0d1117" width="49%" />
+  </div>
+
+  <br>
+
+  <!-- Wave Animation -->
+  ```
+  ░█████╗░░█████╗░██████╗░██╗███╗░░██╗░██████╗░  ██╗░░░░░██╗███████╗███████╗
+  ██╔══██╗██╔══██╗██╔══██╗██║████╗░██║██╔════╝░  ██║░░░░░██║██╔════╝██╔════╝
+  ██║░░╚═╝██║░░██║██║░░██║██║██╔██╗██║██║░░██╗░  ██║░░░░░██║█████╗░░█████╗░░
+  ██║░░██╗██║░░██║██║░░██║██║██║╚████║██║░░╚██╗  ██║░░░░░██║██╔══╝░░██╔══╝░░
+  ╚█████╔╝╚█████╔╝██████╔╝██║██║░╚███║╚██████╔╝  ███████╗██║██║░░░░░███████╗
+  ░╚════╝░░╚════╝░╚═════╝░╚═╝╚═╝░░╚══╝░╚═════╝░  ╚══════╝╚═╝╚═╝░░░░░╚══════╝
+  ```
+
+  <!-- Tech Animation -->
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kadrdulmin&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
@@ -32,39 +67,124 @@
 </div>
 
 <!-- About Me Section with Animation -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <ul style="list-style-type: none;">
-      <li>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-        I'm currently working on <b>Angular Projects</b>
-      </li>
-      <li>
-        <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="30">
-        I'm learning <b>Cloud Architecture & DevOps</b>
-      </li>
-      <li>
-        <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30">
-        I love exploring new technologies
-      </li>
-      <li>
-        <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30">
-        2024 Goals: Contribute more to Open Source
-      </li>
-      <li>
-        <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="30">
-        Reach me: <a href="mailto:raminda5575@gmail.com">raminda5575@gmail.com</a>
-      </li>
-      <li>
-        <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="30">
-        Fun fact: I debug with coffee ☕
-      </li>
-    </ul>
-  </div>
+<div align="center">
+  
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+  
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</div>
+
+<br>
+
+<div align="left">
+
+```typescript
+const aboutMe = {
+    name: "Raminda Dulmin",
+    location: "Plymouth, UK",
+    role: "Software Engineer",
+    currentFocus: "Building Amazing Things ⚡"
+};
+```
+
+<div align="center">
+  
+# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60px"/> My Digital Space
+
+```javascript
+// Loading developer profile...
+{
+  "status": "Coding in Progress 🚀",
+  "energy": "Caffeine Level Critical ☕",
+  "mode": "Beast Mode Activated 💪"
+}
+```
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
+
+<h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A Bit About Me </h2>
+
+```typescript
+class SoftwareEngineer extends Developer {
+    readonly name = "Raminda Dulmin";
+    readonly title = "Software Engineering Student";
+    
+    constructor() {
+        super();
+        this.coffee = new CoffeeEngine(true);
+        this.bugs = new BugSquasher(9000);
+    }
+    
+    public getCurrentState(): Status {
+        return {
+            location: "Plymouth, UK 🎓",
+            current: "Building the future, one commit at a time",
+            latest: "Turning caffeine into code..."
+        };
+    }
+}
+```
+
+
+<h2> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Let's Connect! </h2>
+
+<div align="center">
+  <a href="mailto:raminda5575@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
+  </a>
+  <br>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="50">
+</div>
+
+<h2> <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="50"> Fun Facts </h2>
+
+<div align="center">
+  
+```javascript
+const dailyRoutine = {
+    coffee: function() {
+        return "☕".repeat(Math.floor(Math.random() * 5) + 1);
+    },
+    mood: function() {
+        return new Date().getHours() < 12 ? "Need coffee..." : "Ready to code!";
+    },
+    bugs: function() {
+        return "🐛 × " + Math.floor(Math.random() * 99);
+    }
+};
+
+// Current Status
+console.log(`
+    Coffee Level: ${dailyRoutine.coffee()}
+    Mood: ${dailyRoutine.mood()}
+    Bugs to squash: ${dailyRoutine.bugs()}
+`);
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> Current Status
+
+```sql
+SELECT * FROM programming_life WHERE developer = 'Raminda';
+
++------------+-------------------+----------------+
+| Time       | Activity         | Coffee_Level   |
++------------+-------------------+----------------+
+| Morning    | Debugging        | ■■■□□         |
+| Afternoon  | Coding           | ■■■■□         |
+| Evening    | Learning         | ■■■■■         |
+| Night      | Bug Hunting      | ■■■■■         |
++------------+-------------------+----------------+
+```
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 </div>
 
 <!-- Animated Tech Stack Section -->
