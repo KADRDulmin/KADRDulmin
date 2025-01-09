@@ -26,13 +26,14 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,cs,css,dart,docker,figma,firebase,flutter,gcp,git,html,java,js,mysql,php,python,react&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,angular,ts,express,aws,androidstudio,c,cpp,cs,css,dart,docker,postman,mongodb,firebase,flutter,gcp,git,wordpress,html,bootstrap,java,js,mysql,php,python,react,matlab&perline=7" />
 </p>
 
-### 🎨 Design Tools:
+### 🎨 Design & Creative Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd&perline=4" />
+  <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,figma,xd,blender,autocad&perline=8" />
 </p>
+
 
 ### 📊 GitHub Stats:
 <div align="center">
