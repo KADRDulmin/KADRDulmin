@@ -263,7 +263,15 @@ SELECT * FROM programming_life WHERE developer = 'Raminda';
 
 <!-- Spotify Widget with Animation -->
 <div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=how246sf6d68ngu0lvu3hipic&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=how246sf6d68ngu0lvu3hipic&redirect=true)
+  
+</div>
+
+<div align="center">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=how246sf6d68ngu0lvu3hipic)
+
 </div>
 
 <!-- Animated Social Links -->
