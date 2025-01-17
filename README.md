@@ -63,8 +63,11 @@
 
 <!-- Animated Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadrdulmin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&fire=6C63FF&ring=6C63FF&currStreakNum=6C63FF&sideNums=6C63FF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=6C63FF" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KADRDulmin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&fire=6C63FF&ring=6C63FF&currStreakNum=6C63FF&sideNums=6C63FF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=6C63FF" alt="GitHub Streak Stats" /> 
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADRDulmin&layout=compact&theme=dark&hide_border=trueno-bg=true&no-frame=true&langs_count=10" alt="KADRDulmin's Top Languages"/>
 </div>
+
 
 <!-- About Me Section with Animation -->
 
